@@ -9,7 +9,7 @@
 
 ---
 
-# 1️⃣ Scenario Overview
+# 1 Scenario Overview
 
 Following a confirmed breach and temporary service disruption, Bazaarjo conducted a **Business Impact Analysis (BIA)** to:
 
@@ -28,7 +28,7 @@ This BIA supports:
 
 ---
 
-# 2️⃣ Identified Critical Business Processes
+# 2 Identified Critical Business Processes
 
 Six critical business functions were identified (Page 1 ):
 
@@ -43,7 +43,7 @@ These represent revenue generation, compliance exposure, operational continuity,
 
 ---
 
-# 3️⃣ Completed BIA Table
+# 3 Completed BIA Table
 
 The structured BIA table (Pages 1–2 ) evaluated each process across:
 
@@ -249,7 +249,7 @@ Orders may proceed briefly using cached inventory data.
 
 ---
 
-# 4️⃣ RTO & RPO Justification Summary
+# 4 RTO & RPO Justification Summary
 
 | Process            | RTO    | RPO     | Rationale                          |
 | ------------------ | ------ | ------- | ---------------------------------- |
@@ -262,7 +262,7 @@ Orders may proceed briefly using cached inventory data.
 
 ---
 
-# 5️⃣ Process Ranking (Recovery Priority)
+# 5 Process Ranking (Recovery Priority)
 
 As defined on Page 3 :
 
@@ -275,9 +275,9 @@ As defined on Page 3 :
 
 ---
 
-# 6️⃣ Top 3 Critical Processes (Executive View)
+# 6 Top 3 Critical Processes (Executive View)
 
-## 1️⃣ Payment Processing
+## 1 Payment Processing
 
 * Immediate financial exposure
 * PCI-DSS regulatory implications
@@ -285,7 +285,7 @@ As defined on Page 3 :
 
 ---
 
-## 2️⃣ Online Order Processing
+## 2 Online Order Processing
 
 * Core revenue engine
 * High customer visibility
@@ -293,7 +293,7 @@ As defined on Page 3 :
 
 ---
 
-## 3️⃣ Incident Response & Monitoring
+## 3 Incident Response & Monitoring
 
 * Enables breach containment
 * Protects forensic evidence
@@ -301,7 +301,7 @@ As defined on Page 3 :
 
 ---
 
-# 7️⃣ Strategic Observations
+# 7 Strategic Observations
 
 This BIA demonstrates:
 
@@ -313,7 +313,7 @@ This BIA demonstrates:
 
 ---
 
-# 8️⃣ Business Continuity Themes Identified
+# 8 Business Continuity Themes Identified
 
 | Domain                 | Priority Theme                    |
 | ---------------------- | --------------------------------- |
@@ -325,7 +325,7 @@ This BIA demonstrates:
 
 ---
 
-# 9️⃣ Skills Demonstrated
+# 9 Skills Demonstrated
 
 * Business Impact Analysis (BIA) development
 * RTO/RPO calculation & justification
